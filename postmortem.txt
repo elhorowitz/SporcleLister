@@ -1,0 +1,10 @@
+Post Mortem
+Erica Horowitz
+HW 4: Visualizations
+September 29, 2009
+
+Because each homework assignment is building off previous assignments, this  homework was straightforward and interesting. I decided to go with www.sporcle.com because I thought it was best to try new sites. (Although I did make a U.S. map of where textsfromlastnight.com's texts were coming from for fun). 
+
+The coding was a little tricky because I had to manually extract the titles  by splitting the <a href="É"> from the title (and from </a>) - BeautifulSoup decided it could not extract it itself for some reason.
+
+ManyEyes was a little annoying to use, because there wasn't much I could do with a list of titles of games. I tried also using the words in the titles and their tallies, but it just ended up with pin-cushion like bubble charts  or psychedelic looking pie charts, so I stuck with the titles whole. I think the visualizations I did find were cool though!
